@@ -1,0 +1,59 @@
+.muSquad {
+  margin-top: 22px;
+  margin-left: 7px;
+}
+
+.muSquad table{
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  width: 290px;
+  font-size: 12px;
+  float: left;
+  margin: 10px;
+
+
+}
+
+.muSquad img {
+  width:80px;
+}
+
+.muSquad th, td{
+  padding: 10px;
+
+  text-align: none;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.muSquad th{
+  background-color: lavender;
+  color: darkslategray;
+  font-size: 12px;
+
+}
+
+.muSquad p {
+  color: #333;
+  font-size: 14px;
+}
+
+.muSquad h2 {
+
+  color: black;
+}
+
+.barlink a {
+  text-decoration: none;
+  color: #333;
+}
+
+.statlist {
+  color: darkslategray;
+
+}
+
+.statvalue {
+  text-align: right;
+  border-right: 1px solid #ddd;
+}

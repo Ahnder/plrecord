@@ -1,0 +1,48 @@
+.clubOverview {
+  margin-top: 18px;
+}
+
+.clubOverview table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 910px;
+  margin: 10px;
+  float: left;
+  background-color: #333;
+  text-align: left;
+  padding: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.clubOverview img {
+  float: left;
+  padding: 20px;
+  padding-left: 80px;
+
+  width:80%;
+
+}
+
+.clubOverview h2 {
+  font-size: 50px;
+  color: mintcream;
+  width: 500px;
+  float: left;
+  margin: 20px;
+}
+
+.clubOverview h4 {
+
+  color: mintcream;
+  margin: 5px;
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.clubOverview a {
+  color: mintcream;
+  text-decoration: none;
+}

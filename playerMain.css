@@ -1,0 +1,188 @@
+.playerInfo{
+  text-align: left;
+  font-size: 15px;
+}
+
+.playerInfo h4 {
+  font-size: 16px;
+  margin-left: 24px;
+}
+
+.playerInfo table {
+  border-collapse: collapse;
+
+  border-bottom: 4px solid darkslategray;
+  border-top: 4px solid darkslategray;
+  width: 880px;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 30px;
+  margin-top: 31px;
+}
+
+.playerInfo img {
+  width: 80px;
+  margin-top: 19px;
+}
+
+.playerInfo th {
+  padding: 10px;
+  font-size: 20px;
+
+}
+
+.playerInfo td {
+  border-bottom: none;
+
+  padding: 10px;
+}
+
+
+
+.playerInfo tr {
+
+}
+
+.plt1 {
+  color: darkslategray;
+  border-left: 2px solid #333;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.plt2 {
+  color: black;
+  font-size: 17px;
+  text-align: right;
+  font-weight: bold;
+
+}
+
+.plt3 {
+  color: #333;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+
+.pltBot td {
+  color: white;
+  border: none;
+}
+
+.playerCar {
+  font-size: 15px;
+  text-align: left;
+  margin-top: 22px;
+}
+
+
+
+.playerCar table {
+  border-collapse: collapse;
+  margin-left: 26px;
+  margin-top: 30px;
+}
+
+.playerCar th {
+  width: 220px;
+  color: #333;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.playerCar td {
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+
+}
+
+.plct {
+  text-align: center;
+}
+
+
+/* playerStats page css */
+
+.playerStats {
+
+}
+
+.playerStats h4 {
+  margin-left: 22px;
+}
+
+.playerSt1 {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.playerSt1 table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-top: 4px solid darkslategray;
+  width: 450px;
+}
+
+.playerSt1 th {
+  padding: 5px;
+  border-right: 1px solid #ddd;
+  font-size: 18px;
+  color: #333;
+}
+
+.playerSt1 td {
+  padding: 10px;
+  border-right: 1px solid #ddd;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.playerSt2 {
+
+  padding: 10px;
+  margin: 10px;
+}
+
+.playerSt2 table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-top: 4px solid darkslategray;
+  width: 430px;
+  float: left;
+  margin: 10px;
+}
+
+.playerSt2 th {
+  padding: 10px;
+  font-size: 20px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.playerSt2 td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  font-size: 15px;
+}
+
+.plSt2li {
+  color: #333;
+}
+
+.plSt2num {
+  text-align: right;
+  font-weight: bold;
+}
+
+.plSt2et {
+  color: white;
+  border: 1px solid white;
+}
+
+.plSt2et td {
+  border: none;
+}
